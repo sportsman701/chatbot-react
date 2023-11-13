@@ -18,20 +18,20 @@ function App() {
           </h1>
         </div>
         <div className="container">
-          <h4>1. for find your enrollment no. in gtu enter enrollment no.</h4>
+          <h4>1. For find your enrollment no. in gtu enter enrollment no.</h4>
           <h5>fill form and submit your responce </h5>
         </div>
         <div className="container">
-          <h4>2. want to know about web development type web development</h4>
+          <h4>2. Want to know about web development type web development</h4>
         </div>
         <div className="container">
           <h4>
-            3. want to know about software development type software development
+            3. Want to know about software development type software development
           </h4>
         </div>
         <div className="container">
           <h4>
-            4. want to know about weather of your city and other cities type weather
+            4. Want to know about weather of your city and other cities type weather
           </h4>
         </div>
         <div className="App mx-auto col-md-6 col-sm-8 col-lg-4 cpl-xl-3 my-5">
